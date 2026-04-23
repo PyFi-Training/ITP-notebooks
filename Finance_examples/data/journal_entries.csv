@@ -1,0 +1,11 @@
+Entry ID,Date,Account,Debit,Credit,Preparer
+JE001,2026-01-05,Cash,15000,0,Ana
+JE001,2026-01-05,Revenue,0,15000,Ana
+JE002,2026-01-07,Rent Expense,8000,0,Mark
+JE002,2026-01-07,Cash,0,8000,Mark
+JE003,2026-01-10,Equipment,25000,0,Ana
+JE003,2026-01-10,Accounts Payable,0,25000,Ana
+JE004,2026-01-12,Travel Expense,4200,0,John
+JE004,2026-01-12,Cash,0,3900,John
+JE005,2026-01-15,Accounts Receivable,11000,0,Sara
+JE005,2026-01-15,Revenue,0,11000,Sara
